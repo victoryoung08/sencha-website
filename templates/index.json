@@ -1,0 +1,88 @@
+{
+  "sections": {
+    "hero_image_with_text_qPgyhf": {
+      "type": "hero-image-with-text",
+      "blocks": {
+        "heading_R3bUG9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Flat to Volume in 20mins",
+            "heading_size": "h1"
+          }
+        },
+        "text_GcYDf4": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Full and feathery  lash & brows that last 8 weeks<\/li><li>Shorten your Morning Routine<\/li><li>Made for the DIY girlies ✨<\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "button_7TYbtg": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_R3bUG9",
+        "text_GcYDf4",
+        "button_7TYbtg"
+      ],
+      "custom_css": [
+        ".button {margin-left: auto !important; margin-right: auto !important; width: 100%;}",
+        ".image-with-text__heading {text-align: center;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SenchaLifestyle-1_732ba95a-cac7-4dd9-a0e0-370403e92b2d.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    }
+
+  },
+  "order": [
+    "hero_image_with_text_qPgyhf",
+    "featured_collection"
+  ]
+}
